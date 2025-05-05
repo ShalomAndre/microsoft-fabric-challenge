@@ -15,6 +15,7 @@ Ao concluir este desafio, você terá desenvolvido um pipeline completo e automa
 
 ---
 #### O vídeo da nossa reunião: https://www.youtube.com/watch?v=1OtVi40qxK8&sub_confirmation=1
+#### Data de Entrega - Sábado 17 de Maio de 2025 às 15 Brasil | 19H Angola/Portugal: https://events.teams.microsoft.com/event/d1d8a1fd-ad6c-4f38-925a-fddca9b04d1f@84c31ca0-ac3b-4eae-ad11-519d80233e6f
 ---
 
 ## 🧠 Objetivo do Desafio
