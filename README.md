@@ -19,7 +19,7 @@ Ao concluir este desafio, você terá desenvolvido um pipeline completo e automa
 
 ## 🧠 Objetivo do Desafio
 
-Criar uma solução de ingestão, processamento e visualização de dados de **vagas de emprego em tempo real**, com foco em:
+Criar uma solução de ingestão, processamento e visualização de dados de **vagas de emprego em tempo real** ou **em lote**, com foco em:
 
 - Localidade  
 - Cargo  
